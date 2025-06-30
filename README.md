@@ -1,13 +1,8 @@
 # Weather-app
 
-Here’s a clean and complete **README.md** file for your **India Weather App** GitHub repository. It includes project description, features, technologies used, setup instructions, and the output screenshot you just shared.
 
----
 
-### ✅ `README.md`
-
-````markdown
-# 🇮🇳 India Weather App
+# India Weather App
 
 A simple and elegant weather application that lets users select any **state and district in India** to view sample weather data. Built using **HTML, CSS, and JavaScript** — no APIs or backend needed.
 
@@ -73,20 +68,4 @@ If you'd like to improve this app (e.g., add real weather API, search, or icons)
 
 ---
 
-## 📃 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-```
-
----
-
-### 📝 Next Steps
-
-Let me know if you'd like me to:
-- Rename the screenshot file to something simpler (e.g., `output.png`)
-- Generate a ZIP file with all files bundled
-- Help you deploy this project on GitHub Pages
-
-Would you like the LICENSE and `.gitignore` files added as well?
-```
